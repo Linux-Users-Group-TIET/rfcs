@@ -1,2 +1,2 @@
 # rfcs
-📑Request for Comments (RFCs) for Linux Users Group 
+📑Request for Comments (RFCs) for Linux Users Group
